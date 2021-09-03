@@ -11,4 +11,4 @@ _______________
 
 _______________
 
-[منبع](https://mega.nz/folder/fZRWjDrL#ewireXkJJBC7iJEFXoaoIg)
+[منبع اموزش](https://mega.nz/folder/fZRWjDrL#ewireXkJJBC7iJEFXoaoIg)
