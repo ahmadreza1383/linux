@@ -1,2 +1,2 @@
-# linux
-Linux training
+# اموزشات لینوکس
+Lpic
