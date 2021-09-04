@@ -7,5 +7,7 @@ __________________
 
 __________________
 
-
 [اموزشات lpic](https://github.com/ahmadreza1383/linux/tree/lpic)
+
+
+[سوالات و مشکلات فدورا ](https://github.com/ahmadreza1383/linux/tree/fedora)
