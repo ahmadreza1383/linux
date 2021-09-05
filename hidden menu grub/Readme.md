@@ -117,7 +117,9 @@ GRUB_THEME="/boot/grub2/themes/breeze/theme.txt"
 وبعد این دستورات رو بزنید
 
 
-‍‍‍```bash
+‍‍‍
+```bash
+
 sudo grub2-editenv - set menu_auto_hide=1
 sudo grub2-mkconfig -o /etc/grub2-efi.cfg
 
