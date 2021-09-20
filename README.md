@@ -11,3 +11,7 @@ __________________
 
 
 [سوالات و مشکلات فدورا ](https://github.com/ahmadreza1383/linux/tree/fedora)
+
+
+[سوالات و مشکلات اوبونتو ](https://github.com/ahmadreza1383/linux/tree/ubuntu)
+
