@@ -46,7 +46,14 @@ sudo wine game.exe
 sudo apt install mesa-utils
 ```
 
+و بعد هم این دستور 
 
+
+```bash
+
+export MESA_GL_VERSION_OVERRIDE=4.5
+
+```
 
 __برنامه بالا خطای شما رو برظرف میکند :)__
 
