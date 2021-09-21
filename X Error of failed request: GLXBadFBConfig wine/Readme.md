@@ -97,6 +97,12 @@ source .profile
 ```
 
 
+حالا اگه مقدار رو چک کنیم میبینیم که درست شده است 
+
+
+```bash
+ echo $MESA_GL_VERSION_OVERRIDE
+```
 __تمام:)__
 
 
