@@ -68,7 +68,8 @@ glxinfo | grep "OpenGL version"
 برای این کار فایل زیر رو با ی ویرایشگر باز کنید که من نانو یا گدیت رو انتخاب کردم
 
 
-‍‍‍```bash
+‍‍‍
+```bash
 
 gedit ~/.bashrc
 
@@ -82,6 +83,7 @@ nano ~/.bashrc
 مقدار زیر رو اخر فایل اضافه کنید
 
 
+
 ```bash
 MESA_GL_VERSION_OVERRIDE=4.5
 ```
@@ -89,6 +91,7 @@ MESA_GL_VERSION_OVERRIDE=4.5
 و بعد هم این دستور رو بزنید
 
 ‍‍‍
+
 ```bash
 source .profile
 ```
