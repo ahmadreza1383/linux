@@ -45,7 +45,7 @@ sudo wine game.exe
 ```bash
 sudo apt install mesa-utils
 ```
-
+<!-- 
 و بعد هم این دستور 
 
 
@@ -53,9 +53,48 @@ sudo apt install mesa-utils
 
 export MESA_GL_VERSION_OVERRIDE=4.5
 
+``` -->
+
+حالا چک کنید ببنیید ورژن برنامه چند هست
+
+‍‍
+```bash
+glxinfo | grep "OpenGL version"
 ```
 
-__برنامه بالا خطای شما رو برظرف میکند :)__
+اگه ورژن کمتر از ۴.۵ بود باید ی دستکاری کوچولو انجام بدیم
+
+
+برای این کار فایل زیر رو با ی ویرایشگر باز کنید که من نانو یا گدیت رو انتخاب کردم
+
+
+‍‍‍```bash
+
+gedit ~/.bashrc
+
+or
+
+nano ~/.bashrc
+
+```
+
+
+مقدار زیر رو اخر فایل اضافه کنید
+
+
+```bash
+MESA_GL_VERSION_OVERRIDE=4.5
+```
+
+و بعد هم این دستور رو بزنید
+
+‍‍‍
+```bash
+source .profile
+```
+
+
+__تمام:)__
 
 
 
