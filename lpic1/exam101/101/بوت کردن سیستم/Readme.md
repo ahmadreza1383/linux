@@ -56,10 +56,9 @@ GRUB version 2
 
 ```bash
 
-/etc/lile.conf
-
-/boot/grub/grub.cfg
-/boot/grub/menu.lst
+/etc/lile.conf #lilo
+/boot/grub/grub.cfg # version1
+/boot/grub/menu.lst #version2
 
 ```
 
