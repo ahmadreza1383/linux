@@ -106,6 +106,6 @@ dmesg
 
 ‍‍
 ```bash
-cat /etc/log/dmesg
+cat /var/log/dmesg
 ```
 
