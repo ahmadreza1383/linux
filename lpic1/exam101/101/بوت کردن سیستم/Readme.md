@@ -42,8 +42,24 @@ __فضایی که برای بوت لودر در نظر گرفته میشه مع�
 دو نمونه از نرم افزار های بوت لودر
 
 
+
 ```bash
 
+LILO
+GRUB version 1
+GRUB version 2
+
+```
+
+دایرکتوری ها بوت لودر بالا در  ادرس های زیر قرار دارد
+
+
+```bash
+
+/etc/lile.conf
+
+/boot/grub/grub.cfg
+/boot/grub/menu.lst
 
 ```
 
