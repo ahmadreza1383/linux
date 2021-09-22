@@ -8,3 +8,11 @@
 
 
 * BIOS
+* bootloader
+* kernel
+* init
+* /var/log/messages
+* dmesg
+
+ـــــــــــــــــــــــــــــــ
+
