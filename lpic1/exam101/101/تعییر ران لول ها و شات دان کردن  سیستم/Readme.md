@@ -24,9 +24,9 @@ __________________________________
 تمامی وضعیت ران لول ها 
 
 * 0- Halt
-* 1- Single-User Mode	
-* 2- Multi-User Mode	
-* 3- Multi-User Mode with Networking	
-* 4- Undefined
-* 5- X11
+* 1- Single-User Mode	 
+* 2- Multi-User Mode	(debian/ubuntu defult)
+* 3- Multi-User Mode with Networking	(RHEL/fedora/SUSE text mode)
+* 4- Undefined (free)
+* 5- X11 (RHEL/fedora/SUSE graghical mode )
 * 6- Reboot
