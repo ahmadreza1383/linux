@@ -59,7 +59,7 @@ ____________________________________
 
 
 
-[اموزش نصب برنامه در واین](https://hamyarkhah.ir)
+[اموزش نصب برنامه در واین](https://github.com/ahmadreza1383/linux/tree/ubuntu/Install%20app%20from%20wine)
 
  
 
