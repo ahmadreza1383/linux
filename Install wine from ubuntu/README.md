@@ -22,3 +22,6 @@ __واین چیست؟؟__
 [دانلود واین](https://wiki.winehq.org/Download)
 
 
+بعد از اینکه برای دانلود اقدام کردید با همچین صحنه ای روبرو میشید
+
+![Screenshot_20210930-000710_Chrome](https://user-images.githubusercontent.com/61243238/135344932-ad30d6a3-2cc9-487a-aff9-4d247dc64838.jpg)
