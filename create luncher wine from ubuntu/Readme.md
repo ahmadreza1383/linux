@@ -30,6 +30,9 @@
 ![Red_Alert_3](https://user-images.githubusercontent.com/61243238/135309955-4faa5a94-fbff-4a3c-94d2-cbf3f28332cb.jpg)
 
 
+در حالی که در ویندوز اینطوری وارد میشه 
+
+![RA3 Control Center](https://user-images.githubusercontent.com/61243238/135309823-5cbed472-6886-45f3-8be2-9560a46588a5.png)
 
 
 
