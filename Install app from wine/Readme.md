@@ -38,19 +38,26 @@ ______________________________________
 
 اول از همه به محل دانلود فایلتون برید بعد روی فایلتون کلیک راست کنید 
 
+
+ open with other application  بعد گزینه
+
+
 مثل تصویر زیر
 
 
 ![Screenshot_20210930-144838_YouTube](https://user-images.githubusercontent.com/61243238/135446563-33cc5ef8-6a90-4764-8f8b-02ea17458774.jpg)
 
 
- open with other application  بعد گزینه
-
 ______________________________________
 
+بعد از اینکه کلیک راست کردید لیستی از برنامه هایی که باهاش میتونید فایلتون رو باز کنید براتون نمایش داده میشود
 
 
 
+باز کنید  wine windows program loader بعد با
+
+
+![Screenshot_20210930-144925_YouTube](https://user-images.githubusercontent.com/61243238/135446618-1afce303-1096-498e-ab8c-433a245d7846.jpg)
 
 
 
