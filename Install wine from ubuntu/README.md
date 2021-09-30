@@ -48,9 +48,17 @@ __نکته لطفا توجه داشته باشید که سورس های نصب �
 
 خب به عنوان اولین کار باید پکیج های مورد نیاز رو به لیستمون اضافه کنبم
 
-![Screenshot_20210930-103743_Chrome](https://user-images.githubusercontent.com/61243238/135404756-62cf2a24-8ffa-4723-8b43-dc75901245f4.jpg)
 
 
+
+```bash
+
+sudo dpkg --add-architecture i386 
+
+wget -nc https://dl.winehq.org/wine-builds/winehq.key
+sudo apt-key add winehq.key
+
+```
 
 
 
