@@ -123,6 +123,6 @@ winecfg
 
 ![2-11](https://user-images.githubusercontent.com/61243238/135412136-d569dc47-2ea3-4cdd-bcbe-9b90aa3abe36.png)
 
+  ویندوز ۱۰ رو انتخاب کنید windows version در قسمت 
 
-
-
+  کنید و اوکی رو بزنید بیاید بیرون apply و بعد 
