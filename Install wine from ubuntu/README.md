@@ -84,12 +84,34 @@ ____________________________
 sudo add-apt-repository 'deb https://dl.winehq.org/wine-builds/ubuntu/ hirsute main'
 
 ```
+____________________________
+
+بعد سرویستون رو اپدیت کنید 
+
+
+```bash
+ sudo apt update
+```
+
+____________________________
+
+حالا میرسیم به قسمت خوب برنامه 
+
+به تصویر زیر توجه کنید
+
+
+![Screenshot_20210930-104419_Chrome](https://user-images.githubusercontent.com/61243238/135405332-3e9916f3-7157-41ef-8a08-ef39f144ffda.jpg)
+
+
+در عکس بالا همبنطور که مشاهده کردید میتونید ورژن مختلفی از واین رو نصب کنید 
+
+  هست branch stable ورژن که ما میخوایم نصب کنیم 
 
 
 
-
-
-
+```bash
+   sudo apt install --install-recommends winehq-stable
+```
 
 
 
