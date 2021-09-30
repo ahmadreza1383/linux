@@ -14,7 +14,7 @@ ______________________________________
 [اموزش نصب واین در اوبونتو](https://github.com/ahmadreza1383/linux/tree/ubuntu/Install%20wine%20from%20ubuntu)
 
 
-> ### سلام
+
 
 
 
