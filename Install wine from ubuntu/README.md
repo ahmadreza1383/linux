@@ -128,3 +128,6 @@ winecfg
   کنید و اوکی رو بزنید بیاید بیرون apply و بعد 
 
 __تمام موفق باشید :)__
+
+
+[برای نصب برنامه روی واین (https://github.com/ahmadreza1383/linux/tree/ubuntu/Install%20app%20from%20wine)[کلیک کنید
