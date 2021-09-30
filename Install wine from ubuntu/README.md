@@ -40,7 +40,7 @@ __که ما توزیع اوبونتو رو انتخاب میکنیم__
 ![Screenshot_20210930-002202_Chrome](https://user-images.githubusercontent.com/61243238/135347009-d0565263-5819-40de-a8a7-9c2f21241302.jpg)
 ![Screenshot_20210930-002259_Chrome](https://user-images.githubusercontent.com/61243238/135347013-29d9abff-5d20-419f-baac-6e26d8beeb36.jpg)
 
-
+__نکته لطفا توجه داشته باشید که سورس های نصب ممکنه بعد از مدتی تغییر کنند برای همبن ما با عکس توضیح میدهیم__
 
 
 
