@@ -113,5 +113,16 @@ ____________________________
    sudo apt install --install-recommends winehq-stable
 ```
 
+حالا برید داخل ترمینال خود و این دستور رو بزنید 
+
+```bash
+winecfg
+```
+
+چند تا نصب مختصر خودش میگه اونارو هم انجام بدید و صبر کنید صفحه ی زیر براتون باز بشه
+
+![2-11](https://user-images.githubusercontent.com/61243238/135412136-d569dc47-2ea3-4cdd-bcbe-9b90aa3abe36.png)
+
+
 
 
