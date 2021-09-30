@@ -60,10 +60,22 @@ sudo apt-key add winehq.key
 
 ```
 
+بعد اقدام به اضافه کردن پکیج مورد نیازمون به ورژن مورد استفاده ی اوبونتومون میکنیم
 
 
+![Screenshot_20210930-104239_Chrome](https://user-images.githubusercontent.com/61243238/135405287-6f465a87-d7c8-40c0-bf2b-ea3aae6f5133.jpg)
 
 
+در تصویر بالا شما ورژن های مختلف اوبونتو رو میبینید که نسبت به ورژنی که دارید پکیجتون رو نصب میکنید
+
+که ورژن ما ۲۰.۰۴ هستش
+
+
+```bash
+
+sudo add-apt-repository 'deb https://dl.winehq.org/wine-builds/ubuntu/ hirsute main'
+
+```
 
 
 
